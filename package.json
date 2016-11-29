@@ -1,0 +1,25 @@
+{
+  "name": "max-min-lab",
+  "version": "1.0.0",
+  "description": "Maximum and Minimum Number ",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oyendah/max-min-lab.git"
+  },
+  "author": "Subair Oyindamola",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oyendah/max-min-lab/issues"
+  },
+  "homepage": "https://github.com/oyendah/max-min-lab#readme",
+  "dependencies": {
+    "chai": "^3.5.0"
+  }
+}
