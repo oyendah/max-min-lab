@@ -1,4 +1,4 @@
-var findMinMax = module.exports = function(myArray){
+module.exports = function(myArray){
 	var min = myArray[0];
 	var	max = myArray[0];
 
